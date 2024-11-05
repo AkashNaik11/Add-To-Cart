@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"L001 Lounge Chair",
+        "price":200,
+        "image":"image/1.png"
+    },
+    {
+        "id":2,
+        "name":"L002 Lounge Chair",
+        "price":300,
+        "image":"image/2.png"
+    },
+    {
+        "id":3,
+        "name":"L003 Lounge Chair",
+        "price":300,
+        "image":"image/3.png"
+    },
+    {
+        "id":4,
+        "name":"L004 Lounge Chair",
+        "price":400,
+        "image":"image/4.png"
+    },
+    {
+        "id":5,
+        "name":"L005 Lounge Chair",
+        "price":500,
+        "image":"image/5.png"
+    },
+    {
+        "id":6,
+        "name":"L006 Lounge Chair",
+        "price":600,
+        "image":"image/6.png"
+    },
+    {
+        "id":7,
+        "name":"L007 Lounge Chair",
+        "price":700,
+        "image":"image/7.png"
+    },
+    {
+        "id":8,
+        "name":"L008 Lounge Chair",
+        "price":800,
+        "image":"image/8.png"
+    }
+]
